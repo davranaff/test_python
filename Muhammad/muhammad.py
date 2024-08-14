@@ -1,0 +1,1 @@
+print('Muhammad peredaet privet!')
